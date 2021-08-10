@@ -1,12 +1,14 @@
-![Снимок экрана (506)](https://user-images.githubusercontent.com/41786877/128843858-904d1af2-0364-4188-a812-b3f1f79e2c65.png)
-![Снимок экрана (507)](https://user-images.githubusercontent.com/41786877/128843865-414ccb7d-5d15-470b-b1e1-ba00c112d801.png)
-![Снимок экрана (508)](https://user-images.githubusercontent.com/41786877/128843866-0bb0d782-1bf8-4f44-87d6-b4ec720788b7.png)
-![Снимок экрана (509)](https://user-images.githubusercontent.com/41786877/128843868-e6c521fe-a839-4991-bfd9-27ab39761641.png)
-![Снимок экрана (510)](https://user-images.githubusercontent.com/41786877/128843872-c25ed8a8-89b7-4c25-8709-101032bbd51a.png)
+![Memories](https://user-images.githubusercontent.com/41786877/128863836-9cc0f6ec-b08b-4af9-a98f-dcfe228b6536.png)
+![Memories1png](https://user-images.githubusercontent.com/41786877/128863841-b742a3f3-e146-4ebd-a27c-b0bb646c1be1.png)
+![Memories2](https://user-images.githubusercontent.com/41786877/128863842-4e885d0a-14ad-43e1-b235-569cb4a35879.png)
+![Memories3](https://user-images.githubusercontent.com/41786877/128863843-98fe5e84-9e3e-471f-b8f0-ebf444aea5e5.png)
+![Memories4](https://user-images.githubusercontent.com/41786877/128863846-8123c5a6-cb18-41e2-be50-5b3107428af1.png)
+
 # Social Net
 Сайт сделан в стиле социальной сети которая позволяет добавлять посты их менять а также комментировать.Кроме того позже будет возможность реального чата.
 В целом вы также можете регистрироваться или заходить на свой профиль где собственно основные операции проворачивать.
 При нажатии на пост выскакивает его полное описание.
+Попытка сделать что то похожее на социальную суть
 Благодарю за внимание!
 
 
