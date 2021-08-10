@@ -1,10 +1,16 @@
-# Memories
-
+![Снимок экрана (506)](https://user-images.githubusercontent.com/41786877/128843858-904d1af2-0364-4188-a812-b3f1f79e2c65.png)
+![Снимок экрана (507)](https://user-images.githubusercontent.com/41786877/128843865-414ccb7d-5d15-470b-b1e1-ba00c112d801.png)
+![Снимок экрана (508)](https://user-images.githubusercontent.com/41786877/128843866-0bb0d782-1bf8-4f44-87d6-b4ec720788b7.png)
+![Снимок экрана (509)](https://user-images.githubusercontent.com/41786877/128843868-e6c521fe-a839-4991-bfd9-27ab39761641.png)
+![Снимок экрана (510)](https://user-images.githubusercontent.com/41786877/128843872-c25ed8a8-89b7-4c25-8709-101032bbd51a.png)
+# Social Net
+Сайт сделан в стиле социальной сети которая позволяет добавлять посты их менять а также комментировать.Кроме того позже будет возможность реального чата.
+В целом вы также можете регистрироваться или заходить на свой профиль где собственно основные операции проворачивать.
+При нажатии на пост выскакивает его полное описание.
+Благодарю за внимание!
 
 
 ## Introduction
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
-
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
+- run ```npm i && npm start``` для запуска клиента и локального сервера
